@@ -1,0 +1,9 @@
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\bin\Debug\NivelAccesDate_SQL.dll
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\bin\Debug\NivelAccesDate_SQL.pdb
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\bin\Debug\Librarie_Modele.dll
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\bin\Debug\Librarie_Modele.pdb
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\obj\Debug\NivelAccesDate_SQL.csprojAssemblyReference.cache
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\obj\Debug\NivelAccesDate_SQL.csproj.CoreCompileInputs.cache
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\obj\Debug\NivelAccesDate_SQL.csproj.CopyComplete
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\obj\Debug\NivelAccesDate_SQL.dll
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\NivelAccesDate_SQL\obj\Debug\NivelAccesDate_SQL.pdb

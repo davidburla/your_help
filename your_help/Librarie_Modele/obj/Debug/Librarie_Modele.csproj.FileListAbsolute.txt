@@ -1,0 +1,6 @@
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\bin\Debug\Librarie_Modele.dll
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\bin\Debug\Librarie_Modele.pdb
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\obj\Debug\Librarie_Modele.csproj.CoreCompileInputs.cache
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\obj\Debug\Librarie_Modele.dll
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\obj\Debug\Librarie_Modele.pdb
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\Librarie_Modele\obj\Debug\Librarie_Modele.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\LibrarieModele\obj\Debug\netstandard2.0\LibrarieModele.csprojAssemblyReference.cache
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\LibrarieModele\obj\Debug\netstandard2.0\LibrarieModele.AssemblyInfoInputs.cache
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\LibrarieModele\obj\Debug\netstandard2.0\LibrarieModele.AssemblyInfo.cs
+D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\LibrarieModele\obj\Debug\netstandard2.0\LibrarieModele.csproj.CoreCompileInputs.cache
