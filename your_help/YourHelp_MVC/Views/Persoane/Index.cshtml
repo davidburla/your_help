@@ -1,0 +1,39 @@
+﻿@model IEnumerable<LibrarieModele.Persoana>
+@{
+    ViewBag.Title = "Persoane";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Inregistreaza", "Create")
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Nume")
+        </th>
+        <th>
+            @Html.DisplayName("Prenume")
+        </th>
+        <th>
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.prenume)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>
+

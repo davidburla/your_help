@@ -44,9 +44,9 @@ namespace NivelAccesDate_SQL
     public bool AddPersoana(Persoana pers)
     {
       return SqlDBHelper.ExecuteNonQuery(
-          "INSERT INTO dbo.persoane VALUES (@nume, @prenume @email, @password, @telefon)", CommandType.Text,
+          "INSERT INTO dbo.persoane VALUES (@nume, @prenume, @email, @password, @telefon)", CommandType.Text,
           new SqlParameter("@nume", pers.nume),
-          new SqlParameter("@prenume", pers.nume),
+          new SqlParameter("@prenume", pers.prenume),
           new SqlParameter("@email", pers.email),
           new SqlParameter("@password", pers.pass),
           new SqlParameter("@telefon", pers.telefon));
@@ -57,7 +57,7 @@ namespace NivelAccesDate_SQL
       return SqlDBHelper.ExecuteNonQuery(
           "UPDATE dbo.persoane set nume = @nume, prenume = @prenume, email = @email, password = @password, telefon = @telefon where id = @id", CommandType.Text,
           new SqlParameter("@nume", pers.nume),
-          new SqlParameter("@prenume", pers.nume),
+          new SqlParameter("@prenume", pers.prenume),
           new SqlParameter("@email", pers.email),
           new SqlParameter("@password", pers.pass),
           new SqlParameter("@telefon", pers.telefon),

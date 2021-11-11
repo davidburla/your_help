@@ -29,8 +29,8 @@ namespace LibrarieModele
 
     public Offer (DataRow linieDB)
     {
-      id_persoana = Convert.ToInt32(linieDB["id_persoana"].ToString());
-      id_serviciu = Convert.ToInt32(linieDB["id_serviciu"].ToString());
+      id_persoana = Convert.ToInt32(linieDB["id_person"].ToString());
+      id_serviciu = Convert.ToInt32(linieDB["id_service"].ToString());
       is_valid = Convert.ToBoolean(linieDB["is_valid"].ToString());
     }
   }

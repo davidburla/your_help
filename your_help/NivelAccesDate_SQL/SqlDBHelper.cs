@@ -86,6 +86,7 @@ namespace NivelAccesDate_SQLServer
           catch (SqlException ex)
           {
             //salveaza exceptii in fisiere log
+            Console.WriteLine(ex.Message);
           }
         }
       }

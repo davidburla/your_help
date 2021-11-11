@@ -1,0 +1,49 @@
+﻿@model IEnumerable<LibrarieModele.Offer>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Adauga oferta", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Nume Persoana")
+        </th>
+        <th>
+            @Html.DisplayName("Prenume Persoana")
+        </th>
+        <th>
+            @Html.DisplayName("Serviciu nume")
+        </th>
+        <th>
+            @Html.DisplayName("Serviciu descriere")
+        </th>
+        <th>
+            @Html.DisplayName("Este valida")
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.persoana.nume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.persoana.prenume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.servciu.nume_serviciu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.servciu.descriere)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.is_valid);
+            </td>
+        </tr>
+    }
+
+</table>

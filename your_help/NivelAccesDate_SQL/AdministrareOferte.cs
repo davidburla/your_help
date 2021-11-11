@@ -27,6 +27,7 @@ namespace NivelAccesDate_SQL
         var oferta = new Offer(linieBD);
         //incarca entitatile aditionale
         oferta.persoana = new AdministrarePersoane().GetPersoana(oferta.id_persoana);
+        oferta.servciu = new AdministrareServicii().GetServiciu(oferta.id_serviciu);
         result.Add(oferta);
       }
       return result;
