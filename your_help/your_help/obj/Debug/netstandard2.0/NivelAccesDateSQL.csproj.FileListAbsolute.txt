@@ -1,8 +1,0 @@
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\bin\Debug\netstandard2.0\NivelAccesDateSQL.deps.json
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\bin\Debug\netstandard2.0\NivelAccesDateSQL.dll
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\bin\Debug\netstandard2.0\NivelAccesDateSQL.pdb
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\obj\Debug\netstandard2.0\NivelAccesDateSQL.AssemblyInfoInputs.cache
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\obj\Debug\netstandard2.0\NivelAccesDateSQL.AssemblyInfo.cs
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\obj\Debug\netstandard2.0\NivelAccesDateSQL.csproj.CoreCompileInputs.cache
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\obj\Debug\netstandard2.0\NivelAccesDateSQL.dll
-D:\Facultate\Master I\PPAW\your_help_lab_presentation\your_help\your_help\obj\Debug\netstandard2.0\NivelAccesDateSQL.pdb
